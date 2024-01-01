@@ -1,2 +1,2 @@
-//var numberType = 20;
-//console.log(typeof numberType);
+var numberType = 20;
+console.log(typeof numberType);
